@@ -21,3 +21,4 @@ Add the following dependency to a quarkus project `pom.xml`:
 
 `curl http://localhost:8080/airhacks-extension`
 
+See you at: [airhacks.com](http://airhacks.com), [airhacks.io](http://airhacks.io) or [airhacks.tv](http://airhacks.tv)
